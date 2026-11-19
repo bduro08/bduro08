@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @bduro08
-- 🌱 I’m new-ish to coding and currentyly learning Python
+ Hi, I’m @bduro08
+-  I’m new-ish to coding and currently learning Python
 
 <!---
 bduro08/bduro08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
